@@ -1,5 +1,7 @@
 #HSLIDE
 ## Конкурентно програмиране I
+
+#HSLIDE
 ![Image-Absolute](assets/To-be-a-one-man-band.jpg)
 
 #HSLIDE
@@ -11,6 +13,8 @@
 
 #HSLIDE
 ## Elixir като конкурентно-ориентиран език
+
+#HSLIDE
 ![Image-Absolute](assets/multiple.png)
 
 #HSLIDE
